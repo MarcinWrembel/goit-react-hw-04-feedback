@@ -1,0 +1,3 @@
+export const stringFromCapitalLetter = string => {
+    return string.charAt(0).toUpperCase() + string.slice(1);
+}
